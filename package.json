@@ -1,6 +1,6 @@
 {
   "name": "alfred-kaomoji",
-  "version": "1.3.0",
+  "version": "1.3.1",
   "description": "Alfred workflow to find relevant kaomoji from text",
   "license": "MIT",
   "repository": "vinkla/alfred-kaomoji",
@@ -33,8 +33,8 @@
   },
   "devDependencies": {
     "alfy-test": "^0.3.0",
-    "ava": "^2.2.0",
-    "xo": "^0.25.1"
+    "ava": "^2.4.0",
+    "xo": "^0.25.3"
   },
   "xo": {
     "space": true
