@@ -1,4 +1,4 @@
-# alfred-kaomoji [![Build Status](https://badgen.net/github/status/vinkla/alfred-kaomoji/master)](https://github.com/vinkla/alfred-kaomoji/actions)
+# alfred-kaomoji [![Build Status](https://badgen.net/github/checks/vinkla/alfred-kaomoji?label=build&icon=github)](https://github.com/vinkla/alfred-kaomoji/actions)
 
 > [Alfred](https://www.alfredapp.com) workflow to find relevant [kaomoji](https://en.m.wikipedia.org/wiki/Emoticon) from text.
 
